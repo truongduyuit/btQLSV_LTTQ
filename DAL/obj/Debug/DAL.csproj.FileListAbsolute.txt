@@ -1,0 +1,42 @@
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\DAL.dll.config
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\DAL.dll
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\DAL.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.dll
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.xml
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.dll
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\DTO.dll
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\DTO.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.Context.tt
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.tt
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVien.cs
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.Context.cs
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.cs
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.Designer.cs
+D:\DH CNTT\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.edmx.diagram
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.Context.tt
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.tt
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVien.cs
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.Context.cs
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.cs
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.Designer.cs
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\SinhVienModel.edmx.diagram
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\DAL.dll.config
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\DAL.dll
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\DAL.pdb
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\DTO.dll
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.dll
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\DTO.pdb
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.xml
+F:\School\Product\QuanLiSinhVien\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\School\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\School\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\School\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\School\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.dll
+F:\School\Product\QuanLiSinhVien\DAL\obj\Debug\DAL.pdb

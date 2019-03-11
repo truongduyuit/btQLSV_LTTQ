@@ -1,0 +1,55 @@
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe.config
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\BLL.dll
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\BLL.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\DevComponents.DotNetBar2.xml
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Properties.Resources.resources
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\GUI.csproj.CopyComplete
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\DAL.dll
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\EntityFramework.dll
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\DAL.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\DAL.dll.config
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\EntityFramework.xml
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\DH CNTT\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.GUI_NHANVIEN.resources
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\DTO.dll
+D:\DH CNTT\Product\QuanLiSinhVien\bin\Debug\DTO.pdb
+F:\School\Product\QuanLiSinhVien\bin\Debug\SinhVienModel.Context.tt
+F:\School\Product\QuanLiSinhVien\bin\Debug\SinhVienModel.tt
+F:\School\Product\QuanLiSinhVien\bin\Debug\SinhVien.cs
+F:\School\Product\QuanLiSinhVien\bin\Debug\SinhVienModel.Context.cs
+F:\School\Product\QuanLiSinhVien\bin\Debug\SinhVienModel.cs
+F:\School\Product\QuanLiSinhVien\bin\Debug\SinhVienModel.Designer.cs
+F:\School\Product\QuanLiSinhVien\bin\Debug\SinhVienModel.edmx.diagram
+F:\School\Product\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe.config
+F:\School\Product\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe
+F:\School\Product\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.pdb
+F:\School\Product\QuanLiSinhVien\bin\Debug\BLL.dll
+F:\School\Product\QuanLiSinhVien\bin\Debug\DevComponents.DotNetBar2.dll
+F:\School\Product\QuanLiSinhVien\bin\Debug\DTO.dll
+F:\School\Product\QuanLiSinhVien\bin\Debug\EntityFramework.dll
+F:\School\Product\QuanLiSinhVien\bin\Debug\EntityFramework.SqlServer.dll
+F:\School\Product\QuanLiSinhVien\bin\Debug\DAL.dll
+F:\School\Product\QuanLiSinhVien\bin\Debug\BLL.pdb
+F:\School\Product\QuanLiSinhVien\bin\Debug\DTO.pdb
+F:\School\Product\QuanLiSinhVien\bin\Debug\DevComponents.DotNetBar2.xml
+F:\School\Product\QuanLiSinhVien\bin\Debug\EntityFramework.xml
+F:\School\Product\QuanLiSinhVien\bin\Debug\EntityFramework.SqlServer.xml
+F:\School\Product\QuanLiSinhVien\bin\Debug\DAL.pdb
+F:\School\Product\QuanLiSinhVien\bin\Debug\DAL.dll.config
+F:\School\Product\QuanLiSinhVien\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\School\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.GUI_NHANVIEN.resources
+F:\School\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Properties.Resources.resources
+F:\School\Product\QuanLiSinhVien\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\School\Product\QuanLiSinhVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\School\Product\QuanLiSinhVien\obj\Debug\GUI.csproj.CopyComplete
+F:\School\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
+F:\School\Product\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb

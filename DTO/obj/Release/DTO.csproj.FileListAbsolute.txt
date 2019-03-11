@@ -1,0 +1,5 @@
+D:\DH CNTT\Product\QuanLiSinhVien\DTO\bin\Release\DTO.dll
+D:\DH CNTT\Product\QuanLiSinhVien\DTO\bin\Release\DTO.pdb
+D:\DH CNTT\Product\QuanLiSinhVien\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\DH CNTT\Product\QuanLiSinhVien\DTO\obj\Release\DTO.dll
+D:\DH CNTT\Product\QuanLiSinhVien\DTO\obj\Release\DTO.pdb

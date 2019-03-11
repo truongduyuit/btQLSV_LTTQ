@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLiSinhVienModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="SinhVien">
+    <Key>
+      <PropertyRef Name="mssv" />
+    </Key>
+    <Property Name="mssv" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="hoten" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="lop" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="ngaysinh" Type="smalldatetime" Nullable="false" />
+    <Property Name="gioitinh" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="dienthoai" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="mavung" Type="varchar" MaxLength="5" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="QuanLiSinhVienModelStoreContainer">
+    <EntitySet Name="SinhVien" EntityType="Self.SinhVien" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
